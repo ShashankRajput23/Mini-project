@@ -1,5 +1,3 @@
-//Omkar Gambhir
-//RA2111033010010
 #include <stdio.h>
 
 struct customer
